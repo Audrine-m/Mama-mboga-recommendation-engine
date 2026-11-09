@@ -147,7 +147,7 @@ These results demonstrate the complete workflow, from raw purchase records to cu
 ## Project Structure
 
 ```text
-day4-recommendation-engine/
+   recommendation-engine/
 │
 ├── data/
 │   └── purchases.csv
@@ -198,7 +198,7 @@ All nine tests passed during development.
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/Audrine-m/Mama-mboga-recommendation-engine.git
 ```
 
 ### 2. Navigate into the project directory
